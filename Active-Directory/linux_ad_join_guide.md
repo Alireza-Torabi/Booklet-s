@@ -1,5 +1,3 @@
-**Educational Booklet**
-
 # Joining Linux to Active Directory Domain (AD) - Step-by-Step Guide
 
 ## Audience
