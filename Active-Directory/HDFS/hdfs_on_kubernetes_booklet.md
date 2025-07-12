@@ -66,7 +66,3 @@ kubectl delete statefulset namenode datanode -n bigdata
 kubectl delete pvc --all -n bigdata
 kubectl delete namespace bigdata
 ```
-
----
-
-**تهیه‌کننده:** ChatGPT - آموزش استقرار HDFS روی Kubernetes
